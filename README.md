@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**MamiMarie/MamiMarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🌱 I’m currently learning C++
 - 💬 Ask me about: anything, I am an open book.
 - 📫 How to reach me: discord 
